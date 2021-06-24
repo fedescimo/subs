@@ -11,8 +11,8 @@ EDITOR = emacs -nw
 RM = rm -rf
 
 # Default project infos
-# PRJ     = test
-PRJ     = gymix
+PRJ     = test
+# PRJ     = gymix
 # YT_ID   = lw53nODhRXU
 #lunghezza chunks di sottotitoli per splitting in minuti
 CHUNKS_LEN_MINS = 5
