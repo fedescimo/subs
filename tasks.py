@@ -14,8 +14,8 @@ def gymix(c):
 
 
 # @task
-# def hnva2(c):
-#     Prj(id = 'hnva2', yt_id = 'Jaok_8MNntQ').menu()
+# def hnva20(c):
+#     Prj(id = 'hnva20', yt_id = 'Jaok_8MNntQ').menu()
 
 @task
 def hnva25(c):
