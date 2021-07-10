@@ -1,0 +1,10 @@
+trn_filename,trn_start,trn_assignee,trn_assigned,trn_completed,rev1_assignee,rev1_assigned,rev1_completed,rev2_filename,rev2_ready,rev2_created,rev2_assignee,rev2_assigned,rev2_completed
+subs_000000.srt,00:00:00,,False,False,,False,False,000000_002500.srt,False,False,,False,False
+subs_000500.srt,00:05:00,,False,False,,False,False,000000_002500.srt,False,False,,False,False
+subs_001000.srt,00:10:00,,False,False,,False,False,000000_002500.srt,False,False,,False,False
+subs_001500.srt,00:15:00,,False,False,,False,False,000000_002500.srt,False,False,,False,False
+subs_002000.srt,00:20:00,,False,False,,False,False,000000_002500.srt,False,False,,False,False
+subs_002500.srt,00:25:00,,False,False,,False,False,000000_002500.srt,False,False,,False,False
+subs_003000.srt,00:30:00,,False,False,,False,False,003000_004000.srt,False,False,,False,False
+subs_003500.srt,00:35:00,,False,False,,False,False,003000_004000.srt,False,False,,False,False
+subs_004000.srt,00:40:00,,False,False,,False,False,003000_004000.srt,False,False,,False,False

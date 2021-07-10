@@ -12,9 +12,6 @@ def test(c):
 def gymix(c):
     Prj(id = 'gymix', yt_id = 'Lox6tAor5Xo').menu()
 
-@task
-def arav(c):
-    Prj(id = 'arav', yt_id = 'ZTlx0I4qDoo').menu()
 
 # @task
 # def hnva2(c):
@@ -22,8 +19,12 @@ def arav(c):
 
 @task
 def hnva25(c):
-    Prj(id = 'hnva25', yt_id = 'Jaok_8MNntQ').menu()
+    Prj(id = 'hnva25', yt_id = 'GHGRkgF-JXQ').menu()
 
+@task
+def arav(c):
+    Prj(id = 'arav', yt_id = 'ZTlx0I4qDoo').menu()
+    
 
 # -----
 # Utils
