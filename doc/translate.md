@@ -304,25 +304,25 @@ Translate e non ascoltando il video.
   non cose che possono essere utili anche ad altre/i, le quali sono
   da condividere in chat) si può lasciare un commento al revisore come
   segue:
-	  
-	  ```
-	  3
-	  00:00:33,000 --> 00:00:49,000
-	  ## Linea 1 in inglese
-	  ## Linea 2 in inglese
-	  Testo tradotto
-	  testo tradotto
-	  ## Commento per i revisori
-	  ## commento per i revisori
 
-  
-	  4
-	  ...
-	  ```
 	  
-	  Da notare che il commento va dopo *2 cancelletti*, come *ultima linea*
-	  e assicurandosi che dopo vi sia sempre **almeno una linea vuota di
-	  separazione**.
+	```
+	3
+	00:00:33,000 --> 00:00:49,000
+	## Linea 1 in inglese
+	## Linea 2 in inglese
+	Testo tradotto
+	testo tradotto
+	## Commento per i revisori
+	## commento per i revisori
+	
+	4
+	...
+	```
+
+	Da notare che il commento va dopo *2 cancelletti*, come *ultima linea*
+	e assicurandosi che dopo vi sia sempre **almeno una linea vuota di
+	separazione**.
 
 
 * una volta che abbiamo una idea compiuta della traduzione da
@@ -335,13 +335,13 @@ Translate e non ascoltando il video.
   degli altri file del progetto, in fondo) indicando momento di inizio
   (anche i secondi), testo inglese, traduzione italiana, come segue:
 
-	  ```
-	  00:00:33
-	  ## Testo inglese
-	  Testo tradotto in italiano
+	```
+	00:00:33
+	## Testo inglese
+	Testo tradotto in italiano
 
-	  ...
-	  ```
+	...
+	```
 
 	Tenere una linea di separazione tra i sub mancanti e porre/mantenere
 	in ordine temporale.
