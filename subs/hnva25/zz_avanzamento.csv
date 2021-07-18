@@ -2,7 +2,7 @@ trn_filename,trn_start,trn_assignee,trn_assigned,trn_completed,rev1_assignee,rev
 subs_000000_kudelka85.srt,00:00:00,kudelka85,True,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_000500_StefiAv.srt,00:05:00,StefiAv,True,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_001000_sturiandre.srt,00:10:00,sturiandre,True,False,,False,False,000000_002500.srt,False,False,,False,False
-subs_001500.srt,00:15:00,,False,False,,False,False,000000_002500.srt,False,False,,False,False
+subs_001500_roxans.srt,00:15:00,roxans,True,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_002000.srt,00:20:00,,False,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_002500.srt,00:25:00,,False,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_003000.srt,00:30:00,,False,False,,False,False,003000_004000.srt,False,False,,False,False
