@@ -1,10 +1,10 @@
 trn_filename,trn_start,trn_assignee,trn_assigned,trn_completed,rev1_assignee,rev1_assigned,rev1_completed,rev2_filename,rev2_ready,rev2_created,rev2_assignee,rev2_assigned,rev2_completed
 subs_000000_kudelka85.srt,00:00:00,kudelka85,True,True,fedescimo,True,True,000000_002500.srt,False,False,,False,False
 subs_000500_StefiAv.srt,00:05:00,StefiAv,True,True,fedescimo,True,True,000000_002500.srt,False,False,,False,False
-subs_001000_sturiandre.srt,00:10:00,sturiandre,True,False,,False,False,000000_002500.srt,False,False,,False,False
+subs_001000_sturiandre.srt,00:10:00,sturiandre,True,True,,False,False,000000_002500.srt,False,False,,False,False
 subs_001500_roxans.srt,00:15:00,roxans,True,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_002000_StefanoMartorana.srt,00:20:00,StefanoMartorana,True,True,fedescimo,True,True,000000_002500.srt,False,False,,False,False
-subs_002500_SaraImbr.srt,00:25:00,SaraImbr,True,True,fedescimo,True,False,000000_002500.srt,False,False,,False,False
-subs_003000.srt,00:30:00,,False,False,,False,False,003000_004000.srt,False,False,,False,False
+subs_002500_SaraImbr.srt,00:25:00,SaraImbr,True,True,fedescimo,True,True,000000_002500.srt,False,False,,False,False
+subs_003000_StefiAv.srt,00:30:00,StefiAv,True,False,,False,False,003000_004000.srt,False,False,,False,False
 subs_003500.srt,00:35:00,,False,False,,False,False,003000_004000.srt,False,False,,False,False
 subs_004000.srt,00:40:00,,False,False,,False,False,003000_004000.srt,False,False,,False,False
