@@ -5,6 +5,6 @@ subs_001000_sturiandre.srt,00:10:00,sturiandre,True,True,,False,False,000000_002
 subs_001500_roxans.srt,00:15:00,roxans,True,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_002000_StefanoMartorana.srt,00:20:00,StefanoMartorana,True,True,fedescimo,True,True,000000_002500.srt,False,False,,False,False
 subs_002500_SaraImbr.srt,00:25:00,SaraImbr,True,True,fedescimo,True,True,000000_002500.srt,False,False,,False,False
-subs_003000_StefiAv.srt,00:30:00,StefiAv,True,False,,False,False,003000_004000.srt,False,False,,False,False
+subs_003000_StefiAv.srt,00:30:00,StefiAv,True,True,,False,False,003000_004000.srt,False,False,,False,False
 subs_003500.srt,00:35:00,,False,False,,False,False,003000_004000.srt,False,False,,False,False
 subs_004000.srt,00:40:00,,False,False,,False,False,003000_004000.srt,False,False,,False,False
