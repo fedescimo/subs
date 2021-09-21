@@ -2,8 +2,6 @@
 ## Inizio spezzone: https://youtu.be/ZTlx0I4qDoo?t=1800
 ## --------------------------------------------------------
 
-
-
 306
 00:30:04,480 --> 00:30:11,040
 ## it was there were certain criterias that you 
@@ -360,6 +358,7 @@
 00:34:58,960 --> 00:35:05,200
 ## i guess you need to learn that maybe your ideas 
 ## won't always be accepted by the current i don't  
+
 
 
 

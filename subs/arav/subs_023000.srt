@@ -2,8 +2,6 @@
 ## Inizio spezzone: https://youtu.be/ZTlx0I4qDoo?t=9000
 ## --------------------------------------------------------
 
-
-
 1502
 02:30:00,399 --> 02:30:05,759
 ## that you know you see conversations with someone 
@@ -400,6 +398,7 @@
 02:34:54,960 --> 02:35:02,399
 ## and she was trying to in that video give people 
 ## the kill count and even she concluded in that  
+
 
 
 

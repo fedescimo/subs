@@ -2,8 +2,6 @@
 ## Inizio spezzone: https://youtu.be/ZTlx0I4qDoo?t=9300
 ## --------------------------------------------------------
 
-
-
 1552
 02:35:02,399 --> 02:35:10,080
 ## video there's no way to determine this we i i'm 
@@ -424,6 +422,7 @@
 02:39:56,560 --> 02:40:04,400
 ## assumption from or they've twisted right yeah this 
 ## seems to be happening most of the time really yeah  
+
 
 
 

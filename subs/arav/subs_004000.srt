@@ -2,8 +2,6 @@
 ## Inizio spezzone: https://youtu.be/ZTlx0I4qDoo?t=2400
 ## --------------------------------------------------------
 
-
-
 401
 00:40:07,040 --> 00:40:10,720
 ## this is the topic we're going to get into i'll ask 
@@ -344,6 +342,7 @@
 00:44:58,320 --> 00:45:03,040
 ## and so therefore anyone else in any other 
 ## group then they should know that there are  
+
 
 
 

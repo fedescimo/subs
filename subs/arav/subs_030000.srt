@@ -2,8 +2,6 @@
 ## Inizio spezzone: https://youtu.be/ZTlx0I4qDoo?t=10800
 ## --------------------------------------------------------
 
-
-
 1806
 03:00:01,040 --> 03:00:05,840
 ## when people ask me more questions about it so i do 
@@ -231,6 +229,7 @@
 03:02:27,040 --> 03:02:34,880
 ## with vegans yep sure all right cool we'll 
 ## end it there thanks so much bye everyone
+
 
 
 

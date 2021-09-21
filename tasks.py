@@ -5,26 +5,20 @@ from pyavsubs.Prj import Prj
 # Project tasks
 # -------------
 @task(default = True)
-def hnva25(c):
-    Prj(id = 'hnva25', yt_id = 'GHGRkgF-JXQ').menu()
+def arav(c):
+    Prj(id = 'arav', yt_id = 'ZTlx0I4qDoo').menu()
 
 @task
-def test(c):
-    Prj(id = 'test', yt_id = 'Lox6tAor5Xo').menu()
+def hnva25(c):
+    Prj(id = 'hnva25', yt_id = 'GHGRkgF-JXQ').menu()
 
 @task
 def gymix(c):
     Prj(id = 'gymix', yt_id = 'Lox6tAor5Xo').menu()
 
-# @task
-# def hnva20(c):
-#     Prj(id = 'hnva20', yt_id = 'Jaok_8MNntQ').menu()
-
-# @task
-
 @task
-def arav(c):
-    Prj(id = 'arav', yt_id = 'ZTlx0I4qDoo').menu()
+def test(c):
+    Prj(id = 'test', yt_id = 'Lox6tAor5Xo').menu()
     
 
 # -----
