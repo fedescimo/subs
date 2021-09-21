@@ -6,8 +6,8 @@
 00:30:00,560 --> 00:30:05,920
 ## cool and with the context of the footage playing 
 ## tell them what the cube of truth sets out to do 
-Bene. E con il contesto del filmato in onda, 
-spiegategli cosa ci prefiggiamo di fare con il Cubo della Verità.
+Bene. E con il supporto del filmato in onda, 
+spiegategli qual è lo scopo del Cubo della Verità.
 
 
 
@@ -56,7 +56,7 @@ che si classificano con le etichette "allevati all'aperto", "alimentati naturalm
 ## cage free organic ask the following open-ended 
 ## question what are your feelings on animal abuse  
 "non in gabbia", "biologici". Fate le seguenti domande 
-aperte: come ti senti rispetto agli abusi sugli animali?
+aperte: Come ti senti riguardo l'abuso sugli animali?
 
 
 278
@@ -71,7 +71,7 @@ morale, dicendo una frase tipo "Quindi è
 00:30:50,080 --> 00:30:54,400
 ## safe to say that you are against animal 
 ## abuse how does the footage make you feel
-corretto dire che sei contro gli abusi 
+corretto dire che sei contro l'abuso 
 sugli animali." Come ti fa sentire questo filmato?
 
 
@@ -79,7 +79,7 @@ sugli animali." Come ti fa sentire questo filmato?
 00:30:57,440 --> 00:31:05,600
 ## it makes you feel bad are you both against animal 
 ## abuse yes by the way most people will say yes  
-Ti fa stare male. Siete entrambi contro gli abusi
+Ti fa stare male. Siete entrambi contro l'abuso
 sugli animali? Sì. Comunque, la maggior parte delle persone dirà sì.
 
 
@@ -89,7 +89,7 @@ sugli animali? Sì. Comunque, la maggior parte delle persone dirà sì.
 ## it's very rare that you'll get 
 ## anybody that says no to that question  
 È molto raro che incontriate 
-qualcuno che risponda "no" a quella domanda.
+qualcuno che risponda "No" a quella domanda.
 
 
 282
@@ -97,7 +97,7 @@ qualcuno che risponda "no" a quella domanda.
 ## ask them do you think it's possible to be 
 ## against animal abuse while demanding products  
 Chiedete loro: "Pensate che sia possibile essere
-contro gli abusi sugli animali e continuare a comprare prodotti
+contro l'abuso sugli animali e continuare a comprare prodotti
 
 
 283
@@ -105,7 +105,7 @@ contro gli abusi sugli animali e continuare a comprare prodotti
 ## like meat dairy and eggs do you think 
 ## it's possible to be against animal abuse  
 come carne, latte e uova?" Pensate
-sia possibile essere contro gli abusi sugli animali
+sia possibile essere contro l'abuso sugli animali
 
 
 284
@@ -194,8 +194,7 @@ sugli animali ed essere vegani? Ha molto più impatto
 ## animals when you're not vegan this will lead  
 aggiungere il fatto che non state abusando
 degli animali se siete vegani. Questo porterà
-## La frase "the fact that you're not abusing animals when you're not vegan" per me non ha senso. Credo che Paul intendesse 
-## "the fact that you're not abusing animals when you're vegan", e così l'ho tradotta. 
+
 
 
 295
@@ -203,7 +202,7 @@ degli animali se siete vegani. Questo porterà
 ## to their objections objection handling whenever 
 ## a bystander brings up an objection place them  
 alle loro obiezioni. Come gestire le obiezioni: ogni volta che
-un astante pone un'obiezione, fate in modo che si metta
+un passante obietta, fate in modo che si metta
 
 
 296
@@ -283,7 +282,7 @@ comunque avere delle risposte veloci. La vostra risposta dovrebbe
 ## always anchor back to individual accountability 
 ## it should always end up with the bystander you're  
 sempre riagganciarsi alla responsabilità individuale.
-Dovreste sempre finire la conversazione lasciando l'astante con cui
+Dovreste sempre finire la conversazione lasciando il passante con cui
 
 
 306
@@ -291,7 +290,7 @@ Dovreste sempre finire la conversazione lasciando l'astante con cui
 ## speaking with being in the hot seat if it doesn't 
 ## end up with that bystander being in the hot seat  
 state parlando in una posizione scomoda. Se non 
-finite col lasciare l'astante in una posizione scomoda,
+finite col lasciarlo in una posizione scomoda,
 
 
 307
@@ -307,7 +306,7 @@ che avete preso in modo corretto. Deve sempre finire così.
 ## bring it back to the individual if they try to 
 ## create excuses that try to remove accountability  
 Riportate tutto in capo all'individuo. In caso tentassero di
-produrre delle giustificazioni che cercano di rimuovere la loro responsabilità,
+giustificarsi cercando di rimuovere la loro responsabilità,
 
 
 309
