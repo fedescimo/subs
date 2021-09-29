@@ -5,8 +5,8 @@ subs_001000_Agn25.srt,00:10:00,Agn25,True,True,Titty11,True,False,000000_002500.
 subs_001500_StefanoMartorana.srt,00:15:00,StefanoMartorana,True,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_002000_sturiandre.srt,00:20:00,sturiandre,True,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_002500_Agn25.srt,00:25:00,Agn25,True,True,,False,False,000000_002500.srt,False,False,,False,False
-subs_003000_Agn25.srt,00:30:00,Agn25,True,False,,False,False,003000_005500.srt,False,False,,False,False
-subs_003500.srt,00:35:00,,False,False,,False,False,003000_005500.srt,False,False,,False,False
+subs_003000_Agn25.srt,00:30:00,Agn25,True,True,,False,False,003000_005500.srt,False,False,,False,False
+subs_003500_Agn25.srt,00:35:00,Agn25,True,False,,False,False,003000_005500.srt,False,False,,False,False
 subs_004000.srt,00:40:00,,False,False,,False,False,003000_005500.srt,False,False,,False,False
 subs_004500.srt,00:45:00,,False,False,,False,False,003000_005500.srt,False,False,,False,False
 subs_005000.srt,00:50:00,,False,False,,False,False,003000_005500.srt,False,False,,False,False
