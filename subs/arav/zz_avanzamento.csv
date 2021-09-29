@@ -1,5 +1,5 @@
 trn_filename,trn_start,trn_assignee,trn_assigned,trn_completed,rev1_assignee,rev1_assigned,rev1_completed,rev2_filename,rev2_ready,rev2_created,rev2_assignee,rev2_assigned,rev2_completed
-subs_000000_roxans.srt,00:00:00,roxans,True,False,,False,False,000000_002500.srt,False,False,,False,False
+subs_000000_roxans.srt,00:00:00,roxans,True,True,,False,False,000000_002500.srt,False,False,,False,False
 subs_000500_kudelka85.srt,00:05:00,kudelka85,True,False,,False,False,000000_002500.srt,False,False,,False,False
 subs_001000_Agn25.srt,00:10:00,Agn25,True,True,Titty11,True,False,000000_002500.srt,False,False,,False,False
 subs_001500_StefanoMartorana.srt,00:15:00,StefanoMartorana,True,False,,False,False,000000_002500.srt,False,False,,False,False
@@ -8,7 +8,7 @@ subs_002500_Agn25.srt,00:25:00,Agn25,True,True,,False,False,000000_002500.srt,Fa
 subs_003000_Agn25.srt,00:30:00,Agn25,True,True,,False,False,003000_005500.srt,False,False,,False,False
 subs_003500_Agn25.srt,00:35:00,Agn25,True,False,,False,False,003000_005500.srt,False,False,,False,False
 subs_004000_StefiAv.srt,00:40:00,StefiAv,True,False,,False,False,003000_005500.srt,False,False,,False,False
-subs_004500.srt,00:45:00,,False,False,,False,False,003000_005500.srt,False,False,,False,False
+subs_004500_roxans.srt,00:45:00,roxans,True,False,,False,False,003000_005500.srt,False,False,,False,False
 subs_005000.srt,00:50:00,,False,False,,False,False,003000_005500.srt,False,False,,False,False
 subs_005500.srt,00:55:00,,False,False,,False,False,003000_005500.srt,False,False,,False,False
 subs_010000.srt,01:00:00,,False,False,,False,False,010000_012500.srt,False,False,,False,False
